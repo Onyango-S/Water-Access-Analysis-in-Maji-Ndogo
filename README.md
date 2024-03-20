@@ -25,7 +25,7 @@ In this Maji Ndogo dashboard, the aim is to provide insights on:
 
 ## *Insights on Water Access in Maji Ndogo*
 
-![Maji Ndogo Dashboard](userfiles/example_image.png)
+![Maji Ndogo Dashboard](https://github.com/Onyango-S/Water-Access-Analysis-in-Maji-Ndogo/blob/main/National%20overview.png)
 
 
 Upon analyzing the visualization in Power BI, several key findings and insights regarding water access in Maji Ndogo emerge:
@@ -41,6 +41,7 @@ Upon analyzing the visualization in Power BI, several key findings and insights 
 - Upon further examination, it is evident that rural populations predominantly rely on shared taps and wells as their primary water sources, while urban populations have more access to taps within their homes.
 
 - Comparing water access levels across provinces, it is observed that Kilimani has the lowest access rate at 28%, followed by Hawassa with 30%, Sokoto with 31%,  Akatsi with 37%, and Amanzi with 41%. The national average across Maji Ndogo stands at 34%.
+![Maji Ndogo Dashboard](https://github.com/Onyango-S/Water-Access-Analysis-in-Maji-Ndogo/blob/main/National%20overview.png)
 
 ## **Recommendations**
 
